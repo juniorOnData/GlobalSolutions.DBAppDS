@@ -118,7 +118,7 @@ categoria_mais_afetada = categorias[indice_mais_afetado]
 maior_afetados = max(total_afetados)
 indice_maior = total_afetados.index(maior_afetados)
 
-# print("\n===== RELATÓRIO FINAL =====")
+print("\n===== RELATÓRIO FINAL =====")
 # print(f"Total de desastres registrados: {total_desastres}\n")
 # print("Resumo de pessoas afetadas por categoria:")
 # print(f"Crianças: {soma_criancas} | Adultos: {soma_adultos} | Idosos: {soma_idosos} | Mobilidade reduzida: {soma_mob} | Feridos: {soma_feridos}")
